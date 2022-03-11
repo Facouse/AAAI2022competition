@@ -1,5 +1,9 @@
 # AAAI-2022 安全AI挑战者计划第八期记录
 CGAN_data中利用条件GAN生成图片
+
 data_albu中使用了Albumentations数据增强库
+
 data_fgsm中使用了fgsm对抗性训练
+
 adversarial_training中使用了CleverHans对抗训练库
+
